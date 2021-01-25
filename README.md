@@ -3,7 +3,10 @@ This is a Python3 based virtual assistant developed for Computer Science Investi
 
 To implement this project, it would be highly recommend to create a virtual environment and download and setup all the requirements in that environment.
 
-NOTE: This project is optimized for Windows 1O
+NOTE: 
+1. This project is optimized for Windows 1O
+2. This project requires MySQL, so make sure you have it pre-installed.
+3. Internet Connectivity is a base requirement.
 
 To have a better understanding please refer to the PDF file I have uploaded there.
 
