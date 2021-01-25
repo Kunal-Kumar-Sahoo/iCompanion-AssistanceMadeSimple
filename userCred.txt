@@ -1,0 +1,6 @@
+username
+
+email_id
+
+password
+
