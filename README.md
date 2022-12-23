@@ -13,5 +13,6 @@ To have a better understanding please refer to the PDF file I have uploaded ther
 If any issue faced do let me know :D
 
 Creators:
-Kunal Kumar Sahoo, India : https://github.com/Kunal-Kumar-Sahoo
-Jash Sheth, India : https://github.com/RawAgent24
+[Kunal Kumar Sahoo](https://github.com/Kunal-Kumar-Sahoo)
+[Jash Sheth](https://github.com/RawAgent24)
+[Srishti Singh](https://github.com/SrishtiSingh-1)
